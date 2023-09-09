@@ -42,9 +42,15 @@
   font-size: 18px;
   line-height: 25px;
   text-transform: capitalize;
+  transition: all .2s ease;
 
   margin: 0 1rem;
   cursor: pointer;
+}
+
+.gpt3__navbar-links_container a:hover {
+  color: #ff4820;
+  filter: brightness(1.1);
 }
 
 .gpt3__navbar-sign button,
@@ -61,6 +67,11 @@
   line-height: 25px;
   cursor: pointer;
 }
+
+.gpt3__navbar-sign button:hover,
+.gpt3__navbar-menu_container button:hover {
+  filter: brightness(1.2);
+} 
 
 .gpt3__navbar-menu {
   margin-left: 1rem;
