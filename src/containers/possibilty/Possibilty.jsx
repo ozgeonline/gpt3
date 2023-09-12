@@ -11,7 +11,7 @@ const Possibilty = () => {
       <div className='gpt3__possibilty-content'>
         <h4>Request Early Access to Get Started</h4>
         <h1 className='gradient__text'>The possibilities are beyond your imagination</h1>
-        <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
+        <p>The release of GPT-4 is a significant milestone in the development of artificial intelligence. The model's capabilities are truly impressive, and it is likely to have a profound impact on the way we live, work, and interact with the world around us. As GPT-4 continues to develop, we can expect to see even more amazing things in the years to come.</p>
         <h4>Request Early Access to Get Started</h4>
       </div>
     </div>

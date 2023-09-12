@@ -15,11 +15,14 @@
 
 .gpt3__navbar-links_logo {
   margin-right: 2rem;
+  width: 92px;
+  height: 16px;
 }
 
-.gpt3__navbar-links_logo img {
-  width: 62px;
-  height: 16px;
+.gpt3__navbar-links_logo h2 {
+  color: #fff;
+  font-weight: bolder;
+  font-size: 25px;
 }
 
 .gpt3__navbar-links_container {

@@ -4,20 +4,20 @@ import Feature from '../../components/feature/Feature'
 
 const featuresData = [
   {
-    title: "Improving end distrusts instantly" ,
-    text: "From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded."
+    title: "Multimodal capabilities" ,
+    text: "GPT-4 can process and generate text, code, and images. This makes it a versatile tool for a variety of tasks, such as image captioning, translation, and code generation."
   },
   {
-    title: "Become the tended active" ,
-    text: "Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to."
+    title: "High degree of generalization" ,
+    text: "GPT-4 is able to generalize to new tasks and domains with minimal training data. This makes it a valuable tool for research and development."
   },
   {
-    title: "Message or am nothing" ,
-    text: "Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address."
+    title: "Reasoning and commonsense knowledge" ,
+    text: "GPT-4 can reason about the world and apply commonsense knowledge to solve problems. This is a significant advance over previous language models, which were often brittle and unable to handle complex tasks."
   },
   {
-    title: "Really boy law county" ,
-    text: "Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush."
+    title: "Improved instruction following" ,
+    text: "GPT-4 is able to follow instructions carefully and generate creative text formats. This makes it a powerful tool for creative writing, translation, and summarization."
   }
 ]
 

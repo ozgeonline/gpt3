@@ -1,12 +1,12 @@
 import React, {useState} from 'react';
 import './navbar.css';
 import  {RiMenu3Line, RiCloseLine} from 'react-icons/ri'
-import logo from '../../assets/logo.svg'
+// import logo from '../../assets/logo.svg'
 
 const Menu = () => (
   <>
   <p><a href='#home'>Home</a></p>
-  <p><a href='#wgpt3'>What is GPT?</a></p>
+  <p><a href='#wgpt4'>What is GPT?</a></p>
   <p><a href='#possibilty'>Open AI</a></p>
   <p><a href='#features'>Case Studies</a></p>
   <p><a href='#blog'>Library</a></p>
@@ -20,7 +20,7 @@ const Navbar = () => {
     <div className='gpt3__navbar'>
       <div className='gpt3__navbar-links'>
         <div className='gpt3__navbar-links_logo'>
-          <img src={logo} alt='logo'/>
+          <h2>GPT - 4</h2>
         </div>
         <div className='gpt3__navbar-links_container'>
           <Menu />
